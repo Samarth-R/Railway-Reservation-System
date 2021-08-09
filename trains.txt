@@ -1,0 +1,3 @@
+100 trainA bangalore delhi 200-500 200-200 12-8-2021
+200 trainB mumbai bangalore 300-400 300-150 22-7-2021
+300 trainC tumkur bangalore 50-75 100-35 29-7-2021
